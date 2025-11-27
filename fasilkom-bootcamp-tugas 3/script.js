@@ -1,5 +1,5 @@
 // ====== CLIENT-SIDE GUARDRAILS / LIMITATIONS ======
-const API_KEY = "AIzaSyCc3A0YOc2fNfQkGoaagPQtv6hc_9DCwJU";
+const API_KEY = "AIzaSyCn7qWwcD4aMuM2HFEulj-KH0JnjNQlouY";
 
 const API_URL =
   "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" + API_KEY;
